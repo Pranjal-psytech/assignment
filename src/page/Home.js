@@ -13,7 +13,7 @@ function Home() {
           <span  className=' flex justify-between items-center flex-row  '>
             <div><span><text  className='text-purple-900'>Referral Earning </text> ₹2,500</span>  </div>
             <div> <span><text className='text-purple-900'>Total Referrals</text> ₹2,500</span></div>
-            <div><span><text className='text-purple-900'>Wallet Balence </text> ₹2,500</span></div>
+            <div><span><text className='text-purple-900'>Wallet Balance </text> ₹2,500</span></div>
           </span>
           <button class="rounded-full bg-button mb-4 mt-11 " className='bg-button mb-4 mt-11' title="Withdraw Balance " > <text className='text-white px-8 py-4'>  Withdraw Balance</text></button>
         </div>

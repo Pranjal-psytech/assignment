@@ -1,12 +1,12 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import './navbar.css';
+
+
 
 const Navbar = () => {
   return (
-    <nav className="bg-white h-70 flex justify-between items-center ">
-      <div className=" w-40 ml-2  sm:w-36 h-12 mx-1 my-10">
-        <img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1685077567/Assets/image_1_gh3gjc.svg" alt="Logo" />
+    <nav className="bg-white h-48 sm:h-70 flex justify-between items-center ">
+      <div className=" w-96 ml-2  sm:w-36 h-12 sm:mx-1 sm:my-1">
+        <img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1685077567/Assets/image_1_gh3gjc.svg" alt="Logo" className='w-40 sm:w-36 h-12 ' />
       </div>
       <div className="flex justify-end my-6 mx-24">
         <ul className="flex space-x-4">
@@ -31,7 +31,7 @@ const Navbar = () => {
             <img
               src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1685088015/Assets/Button_drp5sv.png"
               alt="Profile"
-              className="w-40 h-12 ml-2"
+              className=" w-96 h-14 "
             />
           </li>
         </ul>
