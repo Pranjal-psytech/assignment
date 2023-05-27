@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+App Link->   https://pranjal-assignment.netlify.app/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Link ~ https://pranjal-assignment.netlify.app
@@ -40,6 +42,12 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://github.com/Pranjal-sharma-SDE/assignment/assets/101920516/9ba293c9-5084-4219-9169-fe109760430d)
+![image](https://github.com/Pranjal-sharma-SDE/assignment/assets/101920516/3459f79c-90b2-4a23-b1fe-31c989338215)
+![image](https://github.com/Pranjal-sharma-SDE/assignment/assets/101920516/b9df07ef-3b33-4bd8-9609-49b6b906afb7)
+![image](https://github.com/Pranjal-sharma-SDE/assignment/assets/101920516/b8089148-d795-49f2-9f24-757bf370d44c)
+![image](https://github.com/Pranjal-sharma-SDE/assignment/assets/101920516/ed26f1d3-d160-4529-b32d-6917c04ea0dd)
+
 
 ## Learn More
 
